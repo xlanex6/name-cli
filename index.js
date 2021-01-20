@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 
 const clear = require('clear-any-console');
+const pkg = require('./package.json');
 
 clear();
 console.log(`==================
-Alex DUVAL
+${pkg.author}
 
 French FullStack Dev, Vue fanboy, Nuxt addict, JS guy, podcaster, teacher. 
 Live in french alps. 
