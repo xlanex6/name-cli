@@ -1,6 +1,6 @@
 {
   "name": "alex-dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "First CLI ever, use for discover the concept, it will show all my contact.",
   "main": "index.js",
   "bin": {
