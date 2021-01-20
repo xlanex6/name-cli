@@ -1,0 +1,19 @@
+{
+  "name": "alex-dev",
+  "version": "1.0.1",
+  "description": "First CLI ever, use for discover the concept, it will show all my contact.",
+  "main": "index.js",
+  "bin": {
+    "xlanex6": "index.js"
+  },
+  "keywords": [
+    "cli",
+    "alex duval",
+    "node"
+  ],
+  "author": "Alex DUVAL",
+  "license": "ISC",
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
+  }
+}
