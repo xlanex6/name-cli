@@ -12,7 +12,7 @@
     "node"
   ],
   "author": "Alex DUVAL",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "clear-any-console": "^1.16.2"
   }
